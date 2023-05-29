@@ -1,0 +1,13 @@
+Library/bin
+Library/build
+TestMode/hello-world.exe
+.vscode/settings.json
+.vscode/tasks.json
+TestMode/message.dll
+TestMode/libmessage.so
+Library/message/Bin64
+Library/message/build
+TestMode/hello-world
+Library/Bin64
+TestMode/CrossPlatformLib.dll
+TestMode/libCrossPlatformLib.so
